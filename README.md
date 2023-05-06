@@ -1,0 +1,2 @@
+# SGDClass
+StochasticGradientDescentCLassifier implementation
